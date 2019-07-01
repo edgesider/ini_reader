@@ -6,7 +6,8 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <unistd.h>
-#include "../lib.h"
+
+#include "lib.h"
 #include "ini.h"
 
 #define READ_BUFSIZE 2048

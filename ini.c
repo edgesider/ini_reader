@@ -2,7 +2,7 @@
 #include <string.h>
 #include <ctype.h>
 
-#include "../lib.h"
+#include "lib.h"
 
 #define MAX_TITLE_LEN   256
 #define MAX_KEY_LEN     256
